@@ -68,8 +68,8 @@ fr-FR:
         quantity: Quantité
       order: 
         checkout_complete: "Paiement complet"
-        completed_at: "Completed At"
-        coupon_code: "Coupon Code"
+        completed_at: "Réalisée le"
+        coupon_code: "Code Coupon"
         ip_address: "Adresse IP"
         item_total: "Total d'articles"
         number: Nombre
@@ -514,7 +514,7 @@ fr-FR:
   maestro_or_solo_cards: Cartes Maestro/Solo
   mail_delivery_enabled: "La distribution des emails est activée"
   mail_delivery_not_enabled: "La distribution des emails est désactivée"
-  mail_methods: Méthods d'email
+  mail_methods: Méthodes d'email
   mail_server_preferences: Préférence du serveur de messagerie
   make_refund: Effectuer un remboursement
   mark_shipped: "Marqué en tant que livré"
@@ -916,10 +916,10 @@ fr-FR:
   shipment_state: Shipment State
   shipment_states: 
     backorder: backorder
-    partial: partial
-    pending: pending
-    ready: ready
-    shipped: shipped
+    partial: partiel
+    pending: en cours
+    ready: prêt
+    shipped: envoyé
   shipment_updated: Livraison mis à jour
   shipments: "Livraisons"
   shipped: Livré
