@@ -935,7 +935,7 @@ fr-FR:
   shipping_methods: "Méthodes de livraison "
   shipping_methods_description: "Gérer les méthodes de livraisons"
   shipping_total: "Total de la livraison"
-  shop_by_taxonomy: "Acheter par %{taxonomy}"
+  shop_by_taxonomy: "%{taxonomy}"
   shopping_cart: "Panier"
   show: Afficher
   show_active: "Show Active"
