@@ -1,5 +1,10 @@
 ---
-fr-FR: 
+fr-FR:
+  test_mailer:
+    test_email:
+      subject: "[TEST] Message de test"
+      greeting: "Bonjour"
+      message: "Ceci est un message de test."
   'no': "Non"
   'yes': "Oui"
   5_biggest_spenders: "Les 5 plus gros clients"
@@ -911,9 +916,9 @@ fr-FR:
   shipment_details: Détails de livraison
   shipment_mailer: 
     shipped_email: 
-      subject: "Notification d'expédition"
+      subject: "Notification de livraison"
   shipment_number: "Livraison #"
-  shipment_state: Shipment State
+  shipment_state: Etat de la livraison
   shipment_states: 
     backorder: backorder
     partial: partiel
