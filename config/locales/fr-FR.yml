@@ -296,7 +296,7 @@ fr-FR:
   cannot_create_returns: Ne peut créer de retour tant que cette commande n'a pas été expediée.
   cannot_destory_line_item_as_inventory_units_have_shipped: Cannot destory line item as some inventory units have shipped.
   cannot_perform_operation: "Ne peut pas accomplir l'action demandée"
-  capture: accepté
+  capture: accepter
   card_code: "Code de la carte"
   card_details: "Détails de la carte"
   card_number: "Numéro de carte"
@@ -1058,7 +1058,7 @@ fr-FR:
   vat: "TVA"
   version: Version
   view_shipping_options: "Options de la vue livraison"
-  void: Annule
+  void: Annuler
   website: Site Web
   weight: Poids
   welcome_to_sample_store: "Bienvenue sur le magasin test"
