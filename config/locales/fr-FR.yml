@@ -289,7 +289,7 @@ fr-FR:
   by_day: "par jour"
   calculator: Calculateur
   calculator_settings_warning: "Si vous changez le type de calculateur, vous devez tout d'abord enregistrer avant de pouvoir modifier les paramètres du calculateur."
-  cancel: annulé
+  cancel: annuler
   cancel_my_account: Supprimer mon compte
   cancel_my_account_description: "Mécontent?"
   canceled: Annulé
