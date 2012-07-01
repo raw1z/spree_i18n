@@ -923,8 +923,8 @@ fr-FR:
     backorder: backorder
     partial: partiel
     pending: en cours
-    ready: prêt
-    shipped: envoyé
+    ready: prêt à être expédié
+    shipped: expédié
   shipment_updated: Livraison mis à jour
   shipments: "Livraisons"
   shipped: Livré
@@ -980,7 +980,7 @@ fr-FR:
   state_based: "Basé sur une région"
   state_setting_description: "Administrer la liste des Régions/Départements associée à chaque pays."
   states: Régions
-  status: Statut
+  status: Etat de la commande
   stop: Fin
   store: Enregistrer
   street_address: "Rue"
@@ -1080,3 +1080,19 @@ fr-FR:
   zone_based: "Basé sur une zone"
   zone_setting_description: "Liste des pays, régions ou autre zone, utilisée dans plusieurs calculs."
   zones: Zones
+  add_another_service: "Ajouter un nouveau service d'authentification:"
+  edit_social_method: "Editer les méthodes d'authentification sociales"
+  new_social_method: "Nouvelle méthode d'authentification"
+  one_more_step: 'One more step to complete your registration from %{kind}'
+  remove_authentication_option_confirmation: "Êtes-vous sûr(e) de supprimer la méthode d'authentification ?"
+  sign_into_account: "Vous pouvez identifier ce compte en utilisant:"
+  sign_in_through_service: "Se connecter en utilisant l'un de ces services:"
+  social_api_key: "API Key"
+  social_api_secret: "API Secret"
+  social_authentication_methods: "Méthodes d'authentification sociales"
+  social_authentication_methods_description: "Configurer les méthodes d'authenfication sociale OAuth"
+  social_provider: "Social Provider"
+  please_confirm_your_email: "Veuillez confirmer votre adresse email pour continuer"
+  sign_in_with: "S'identifier avec %{provider}"
+  
+  
