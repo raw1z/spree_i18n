@@ -1094,5 +1094,5 @@ fr-FR:
   social_provider: "Social Provider"
   please_confirm_your_email: "Veuillez confirmer votre adresse email pour continuer"
   sign_in_with: "S'identifier avec %{provider}"
-  
+  sign_in_through_one_of_these_services: "S'identifier avec l'un de ces services"
   
