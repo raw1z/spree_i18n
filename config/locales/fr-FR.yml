@@ -609,6 +609,9 @@ fr-FR:
       subject: "Annulation de la commande"
     confirm_email: 
       subject: "Confirmation de commande"
+  payment_mailer:
+    notify:
+      subject: "Confirmation du paiement de votre commande"
   order_not_in_system: "Ce numéro de commande n'est pas valide sur ce site."
   order_number: Commande
   order_operation_authorize: Autorisation
