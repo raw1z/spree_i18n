@@ -1099,4 +1099,4 @@ fr-FR:
   sign_in_with: "S'identifier avec %{provider}"
   sign_in_through_one_of_these_services: "S'identifier avec l'un de ces services"
   add_another_service_to_sign_in_with: "Ajouter un autre service d'authentification"
-  you_have_signed_in_with_these_services: "Vous êtes connectés avec:"
+  you_have_signed_in_with_these_services: "Vous êtes connectés avec"
