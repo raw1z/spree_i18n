@@ -660,7 +660,7 @@ fr-FR:
   payment_method: Méthode de paiement
   payment_methods: Méthodes de paiement
   payment_methods_setting_description: "Configuration des méthodes de paiement utilisables par les clients"
-  payment_processing_failed: "Le paiemnent ne peut être accomplie, merci de vérifier les informations fournie"
+  payment_processing_failed: "Le paiement ne peut être accompli, merci de vérifier les informations fournie"
   payment_state: Etat du paiement
   payment_states: 
     balance_due: solde dû
