@@ -624,12 +624,12 @@ fr-FR:
     awaiting_return: en attente du retour
     canceled: annulée
     cart: panier
-    complete: validé
+    complete: validée
     confirm: confirmation
     delivery: livraison
     payment: paiement
     resumed: reprise
-    returned: retourné
+    returned: retournée
   order_summary: "Résumé de la commande"
   order_sure_want_to: "Êtes-vous certain de vouloir %{event} cette commande ?"
   order_total: "Total de la commande"
